@@ -1,0 +1,10 @@
+# config/config.yaml
+zoom:
+  api_key: YOUR_ZOOM_API_KEY
+  api_secret: YOUR_ZOOM_API_SECRET
+
+email:
+  smtp_server: your_smtp_server
+  smtp_port: 587 # Update with your SMTP port
+  smtp_username: your_username
+  smtp_password: your_password
